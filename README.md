@@ -16,3 +16,8 @@ Alternatively you can run it in a virtual python environment
 In Windows open Windows powershell then go to the directory where app.py is. Then type:
 
 python app.py
+
+
+
+A youtube video which I filmed for this program:
+https://youtu.be/_INNGFc4Wuo
